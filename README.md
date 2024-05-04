@@ -17,3 +17,6 @@ This project uses external resources like Tailwind. It uses CDN link i.e. `<scri
 
 * This code snippet is a starting point and may require further development to be a fully functional website.
 * Replace placeholder images (`img/logo.png`, `img/appstore.jpg`, `img/googleplay.jpg`, `img/ytdevices.png`) with your own designs.
+
+## Looks  
+![Screenshots](screenshot.png)
